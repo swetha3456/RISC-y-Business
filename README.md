@@ -1,4 +1,4 @@
-# LiFi Locker 
+# LiFi Lock
 ## Team RISC-y Business
 Swetha Murali
 PVS Sukeerthi
