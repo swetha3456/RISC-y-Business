@@ -22,7 +22,7 @@ When the app is opened, the user is prompted to verify their biometrics and/or e
 
 ![image](https://github.com/swetha3456/RISC-y-Business/assets/116883043/ec83738e-5fd6-4168-8dbf-c796f7fe334c)
 
-## 
+## Table of Pin Connections
 
 | LDR Module    | VSDSquadron Mini |
 | -------- | ------- |
