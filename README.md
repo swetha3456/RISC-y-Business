@@ -16,9 +16,30 @@ When the app is opened, the user is prompted to verify their biometrics and/or e
 4. LRD module
 5. 12V power source
 6. Servomotor
-7. Buzzer
+7. Piezo Buzzer
 
 ## Circuit Connection Diagram
 
 ![image](https://github.com/swetha3456/RISC-y-Business/assets/116883043/ec83738e-5fd6-4168-8dbf-c796f7fe334c)
+
+## 
+
+| LDR Module    | VSDSquadron Mini |
+| -------- | ------- |
+| D0  | PD1    |
+| VCC | 5V     |
+| GND    | GND    |
+
+| Servomotor    |  VSDSquadron Mini  |
+| -------- | ------- |
+| Signal  | PD2    |
+| VCC | 5V     |
+| GND    | GND    |
+
+|  VSDSquadron Mini    |   |
+| -------- | ------- |
+| PD3  | +ve terminal of green LED |
+| PD4  | +ve terminal of red LED   |
+| PD5  | +ve terminal of piezo buzzer   |
+
 
