@@ -1,7 +1,7 @@
 # LiFi Lock
 ## Team RISC-y Business
-Swetha Murali
-PVS Sukeerthi
+- Swetha Murali
+- PVS Sukeerthi
 
 ## Introduction
 Most lockers today have a single layer of protection such as a keypad or padlock. This can lead to potential security breaches and theft. We propose a simple multi-step authentication protocol for lockers that can ensure protection without the need for excessive hardware/software equipment. Our idea uses LiFi technology and a simple smartphone app to unlock the locker.
