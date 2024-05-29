@@ -17,3 +17,8 @@ When the app is opened, the user is prompted to verify their biometrics and/or e
 5. 12V power source
 6. Servomotor
 7. Buzzer
+
+## Circuit Connection Diagram
+
+![image](https://github.com/swetha3456/RISC-y-Business/assets/116883043/ec83738e-5fd6-4168-8dbf-c796f7fe334c)
+
