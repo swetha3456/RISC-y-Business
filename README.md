@@ -16,3 +16,4 @@ When the app is opened, the user is prompted to verify their biometrics and/or e
 4. LRD module
 5. 12V power source
 6. Servomotor
+7. Buzzer
