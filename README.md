@@ -13,7 +13,7 @@ When the app is opened, the user is prompted to verify their biometrics and/or e
 1. VSDSquadron Mini board
 2. 2 LEDs (for indicating locked/unlocked state)
 3. 470 ohm resistor
-4. LRD module
+4. LDR module
 5. 12V power source
 6. Servomotor
 7. Piezo Buzzer
