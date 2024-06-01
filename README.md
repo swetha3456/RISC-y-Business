@@ -1,11 +1,3 @@
-
-
-https://github.com/swetha3456/RISC-y-Business/assets/116883043/3f962ec2-b862-41dd-9524-dfbab11fd508
-
-
-
-https://github.com/swetha3456/RISC-y-Business/assets/116883043/c7000a63-5290-435b-a3f7-7c70f2ba1ccf
-
 # LiFi Lock
 ## Team RISC-y Business
 - Swetha Murali
@@ -50,4 +42,10 @@ When the app is opened, the user is prompted to verify their biometrics and/or e
 | PD4  | +ve terminal of red LED   |
 | PD5  | +ve terminal of piezo buzzer   |
 
+## Demo
+### Correct Duration
+https://github.com/swetha3456/RISC-y-Business/assets/116883043/3f962ec2-b862-41dd-9524-dfbab11fd508
+
+### Incorrect Duration
+https://github.com/swetha3456/RISC-y-Business/assets/116883043/c7000a63-5290-435b-a3f7-7c70f2ba1ccf
 
