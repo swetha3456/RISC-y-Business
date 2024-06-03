@@ -43,10 +43,15 @@ When the app is opened, the user is prompted to verify their biometrics and/or e
 | PD5  | +ve terminal of piezo buzzer   |
 
 ## Demo
+
 ### Correct Duration
+https://github.com/swetha3456/RISC-y-Business/assets/122366969/135274c0-149c-47d2-b82c-45078cf2133c
+
 https://github.com/swetha3456/RISC-y-Business/assets/116883043/fa47511b-3f25-41d2-9b83-1d538baf80b7
 
 ### Incorrect Duration
+https://github.com/swetha3456/RISC-y-Business/assets/122366969/1293cf77-fc8f-482c-9069-12ac00ee2f37
+
 https://github.com/swetha3456/RISC-y-Business/assets/116883043/25b2b8b9-780b-42c1-9eec-baeeac35066a
 
 ## Code
